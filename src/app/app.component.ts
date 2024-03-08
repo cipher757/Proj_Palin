@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Proj_Palin';
+  version = '3.0.0';
 }
